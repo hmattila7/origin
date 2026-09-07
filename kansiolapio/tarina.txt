@@ -1,5 +1,10 @@
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 asiatekstiä paljon tässä
+=======
+
+asiaa
+>>>>>>> Stashed changes
 =======
 
 asiaa
