@@ -1,11 +1,4 @@
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-asiatekstiä paljon tässä
-=======
-
-asiaa
->>>>>>> Stashed changes
-=======
-
-asiaa
->>>>>>> Stashed changes
+ensimmäinen rivi
+toinen rivi
+kolmas rivi
+neljäs rivi
