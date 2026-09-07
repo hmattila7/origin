@@ -3,4 +3,4 @@ kurkku
 tomaatti
 salaatti
 nacho
-salsa
+salsa medium
